@@ -1,4 +1,4 @@
-on: push
+on: [push]
 name: Publish Website to /develop/hello_world
 jobs:
   FTP-Deploy-Action:
